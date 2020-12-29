@@ -1,19 +1,20 @@
 <!DOCTYPE html>
-<html lang="en>
-            <head>
-              <style>
-                p {
-                    font-family: Arial, Helvetica, sans-serif
-                    align: center
-                    }
-            </style>
-            </head>
-<body>
-<p>
-  <a href="https://github.com/manchuran/isPointInRectangle">Exploring different alternatives for checking if point is inside a rectangle</a> <br/>
-  <a href="https://github.com/manchuran/Codingbat">Solution to all Python problems on Codingbat.com</a> <br/>
-  <a href="https://nbviewer.jupyter.org/github/manchuran/showables/blob/master/notebooks/07_finding_patterns_in_user_quotes/spectral_partitioning.ipynb">
-    Spectral Partitioning: Finding patterns in User Quotes on Nairaland.com</a>
-</p>
-</body>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Selectors</title>
+    </head>
+    <body>
+        <ul>
+            <li>Item 1</li>
+            <li>Item 2</li>
+            <li>Item 3</li>
+            <li>Item 4</li>
+            <li>Item 5</li>
+            <li>Item 6</li>
+            <li>Item 7</li>
+            <li>Item 8</li>
+            <li>Item 9</li>
+       </ul>
+    </body>
 </html>
