@@ -1,19 +1,3 @@
-<!DOCTYPE html>
-<html lang="en>
-            <head>
-              <style>
-                a {
-                    font-family: Arial, Helvetica, sans-serif
-                    align: center
-                    }
-            </style>
-            </head>
-<body>
-
-  <a href="https://github.com/manchuran/isPointInRectangle">Exploring different alternatives for checking if point is inside a rectangle</a> <br/>
-  <a href="https://github.com/manchuran/Codingbat">Solution to all Python problems on Codingbat.com</a> <br/>
-  <a href="https://nbviewer.jupyter.org/github/manchuran/showables/blob/master/notebooks/07_finding_patterns_in_user_quotes/spectral_partitioning.ipynb">
-    Spectral Partitioning: Finding patterns in User Quotes on Nairaland.com</a>
-
-</body>
-</html>
+[Exploring different alternatives for checking if point is inside a rectangle](https://github.com/manchuran/isPointInRectangle)<br/>
+[Solution to all Python problems on Codingbat.com](https://github.com/manchuran/Codingbat)<br/>
+[Spectral Partitioning: Finding patterns in User Quotes on Nairaland.com](https://nbviewer.jupyter.org/github/manchuran/showables/blob/master/notebooks/07_finding_patterns_in_user_quotes/spectral_partitioning.ipynb)<br/>
