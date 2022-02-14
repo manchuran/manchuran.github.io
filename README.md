@@ -6,4 +6,5 @@
 <a href="https://medium.com/swlh/is-the-opinion-of-the-crowd-on-movies-just-as-good-as-that-of-critics-eb3d084bf4a2">Is the Opinion of the Crowd on Movies Just as Good as That of Critics?</a>&nbsp;<a href="https://nbviewer.jupyter.org/github/manchuran/showables/blob/master/notebooks/02_crowd_critics_opinion/crowd_critics_opinion.ipynb">[Code]</a><br/>
 <a href="https://nbviewer.jupyter.org/github/manchuran/showables/blob/master/notebooks/06_nlp_nairaland/notebook.ipynb">NLP using a Nairaland dataset</a><br/>
 <a href="https://nbviewer.jupyter.org/github/manchuran/showables/blob/master/notebooks/09_finding_shortest_tour/simulated_annealing.ipynb">Simulated Annealing: Finding the Shortest Path around Nigerian Airports</a><br/>
+<a href="https://github.com/manchuran/showables/blob/master/notebooks/10_unscaling_reg_coefs/unscaling_reg_coefficients.ipynb">Unscaling Regression Coefficients</a><br/>
 </p>
