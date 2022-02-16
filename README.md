@@ -7,4 +7,5 @@
 <a href="https://nbviewer.jupyter.org/github/manchuran/showables/blob/master/notebooks/06_nlp_nairaland/notebook.ipynb">NLP using a Nairaland dataset</a><br/>
 <a href="https://nbviewer.jupyter.org/github/manchuran/showables/blob/master/notebooks/09_finding_shortest_tour/simulated_annealing.ipynb">Simulated Annealing: Finding the Shortest Path around Nigerian Airports</a><br/>
 <a href="https://nbviewer.org/github/manchuran/showables/blob/master/notebooks/10_unscaling_reg_coefs/unscaling_reg_coefficients.ipynb">Unscaling Regression Coefficients</a><br/>
+<a href="https://github.com/manchuran/showables/blob/master/notebooks/11_correlation_two_lines/11_correlation_of_two_lines.ipynb">Correlation between Two Lines</a><br/>
 </p>
