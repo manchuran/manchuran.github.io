@@ -9,4 +9,5 @@
 <a href="https://nbviewer.org/github/manchuran/showables/blob/master/notebooks/10_unscaling_reg_coefs/unscaling_reg_coefficients.ipynb">Unscaling Regression Coefficients</a><br/>
 <a href="https://github.com/manchuran/showables/blob/master/notebooks/11_correlation_two_lines/11_correlation_of_two_lines.ipynb">Correlation Between Two Lines</a><br/>
 <a href="https://nbviewer.org/github/manchuran/showables/blob/master/notebooks/12_accelerated_gradient_iterates/Iterates_of_AG_in_Krylov_space.ipynb">Iterates of AG in Krylov Space</a><br/>
+<a href="https://github.com/manchuran/showables/blob/master/notebooks/13_shortest_path/shortest_path.ipynb">Shortest Path Between Nodes in a Network</a><br/>
 </p>
