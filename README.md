@@ -7,7 +7,7 @@
 <a href="https://nbviewer.jupyter.org/github/manchuran/showables/blob/master/notebooks/06_nlp_nairaland/notebook.ipynb">NLP using a Nairaland dataset</a><br/>
 <a href="https://nbviewer.jupyter.org/github/manchuran/showables/blob/master/notebooks/09_finding_shortest_tour/simulated_annealing.ipynb">Simulated Annealing: Finding the Shortest Path around Nigerian Airports</a><br/>
 <a href="https://nbviewer.org/github/manchuran/showables/blob/master/notebooks/10_unscaling_reg_coefs/unscaling_reg_coefficients.ipynb">Unscaling Regression Coefficients</a><br/>
-<a href="https://github.com/manchuran/showables/blob/master/notebooks/11_correlation_two_lines/11_correlation_of_two_lines.ipynb">Correlation Between Two Lines</a><br/>
+<a href="https://nbviewer.org/github/manchuran/showables/blob/master/notebooks/11_correlation_two_lines/11_correlation_of_two_lines.ipynb">Correlation Between Two Lines</a><br/>
 <a href="https://nbviewer.org/github/manchuran/showables/blob/master/notebooks/12_accelerated_gradient_iterates/Iterates_of_AG_in_Krylov_space.ipynb">Iterates of AG in Krylov Space</a><br/>
-<a href="https://github.com/manchuran/showables/blob/master/notebooks/13_shortest_path/shortest_path.ipynb">Shortest Path Between Nodes in a Network</a><br/>
-</p>
+<a href="https://nbviewer.org/github/manchuran/showables/blob/master/notebooks/13_shortest_path/shortest_path.ipynb">Shortest Path Between Nodes in a Network</a><br/>
+<a href="https://nbviewer.org/github/manchuran/showables/blob/master/notebooks/14_extending_li_et_al_APG_adaptive_momentum/extending_li_et_al_APG_adaptive_momentum.ipynb">Extending Li et al's APG Adaptive Momentum</a>&nbsp;<a href="https://github.com/manchuran/showables/blob/master/notebooks/14_extending_li_et_al_APG_adaptive_momentum/extending_li_et_al_APG_adaptive_momentum.pdf">[Paper]</a><br/></p>
